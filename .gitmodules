@@ -8,3 +8,8 @@
 	url = https://github.com/teachinglab/tlShiny
 	shallow = true
 	registered = true
+[submodule "TeachingLab"]
+	path = TeachingLab
+	url = https://github.com/duncangates/TeachingLab
+	shallow = true
+	registered = true
