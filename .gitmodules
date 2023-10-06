@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/teachinglab/universe
 	branch = HEAD
-[submodule "tlShiny"]
-	path = tlShiny
-	url = https://github.com/teachinglab/tlShiny
 [submodule "TeachingLab"]
 	path = TeachingLab
 	url = https://github.com/duncangates/TeachingLab
+[submodule "tlShiny"]
+	path = tlShiny
+	url = https://github.com/teachinglab/tlShiny
