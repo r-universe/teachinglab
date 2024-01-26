@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/teachinglab/universe
+	url = https://github.com/teachinglab/teachinglab.r-universe.dev
 	branch = HEAD
 [submodule "TeachingLab"]
 	path = TeachingLab
