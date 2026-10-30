@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TeachingLab"]
 	path = TeachingLab
-	url = https://github.com/duncangates/TeachingLab
+	url = https://github.com/dungates/TeachingLab
 [submodule "tlShiny"]
 	path = tlShiny
-	url = https://github.com/teachinglab/tlShiny
+	url = https://github.com/TeachingLabHQ/tlShiny
